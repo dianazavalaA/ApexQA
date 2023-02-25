@@ -1,0 +1,15 @@
+{
+  "name": "apex",
+  "version": "1.0.0",
+  "description": "This a second part of QA Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "Lets": "cypress open"
+  },
+  "author": "Diana Zavala",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.6.0"
+  }
+}
